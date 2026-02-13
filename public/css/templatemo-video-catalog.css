@@ -255,7 +255,7 @@ p {
   font-size: 2.5rem;
 }
 .tm-catalog-item-list {
-  justify-content: space-between;
+  justify-content: start;
 }
 
 .tm-catalog-item {
